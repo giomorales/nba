@@ -1,0 +1,11 @@
+th {
+  color: lightgray;
+  background-color: red;
+  text-align: center;
+}
+
+td {
+  color: black;
+  background-color: lightskyblue;
+  text-align: center;
+}
