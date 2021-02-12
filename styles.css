@@ -1,10 +1,10 @@
-th {
+thead {
   color: lightgray;
   background-color: red;
   text-align: center;
 }
 
-td {
+tbody {
   color: black;
   background-color: lightskyblue;
   text-align: center;
